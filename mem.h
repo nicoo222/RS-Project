@@ -23,3 +23,5 @@ int Mem_IsValid(void *ptr);
    Returns -1 if the pointer is not valid. */
 
 int Mem_GetSize(void *ptr); 
+
+/*test branche Marc
